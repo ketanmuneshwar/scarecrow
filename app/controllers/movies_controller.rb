@@ -1,5 +1,5 @@
 class MoviesController < ApplicationController
-  # GET /movies
+  # GET /movies chetan muneshwar chetan muneshwar 
   # GET /movies.xml
   def index
     @movies = Movie.find(:all)
